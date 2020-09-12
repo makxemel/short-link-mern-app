@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "maksim mern app",
+  "mongoUri": "mongodb+srv://maksim:321321@cluster0.elg40.azure.mongodb.net/mern?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
